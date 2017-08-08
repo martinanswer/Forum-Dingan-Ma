@@ -1,0 +1,67 @@
+
+.mainmenu{
+    position: absolute;
+    right:10px;
+    top:2px;
+
+}
+
+
+.topic{
+
+width: 100%
+
+}
+
+.topic tr:hover{
+  background-color: yellow;
+  cursor: pointer;
+}
+
+.topic th{
+  font-size: 1.4rem;
+border: 1px solid black;
+padding: 8px 16px;
+border-collapse: collapse;
+
+
+}
+
+.topic td{
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+
+.fontsize1
+{
+  color: blue;
+  font-family: Edwardian Script ITC, Geneva, sans-serif;
+  font-size: 50px
+}
+
+.fontsize2{
+color:yellow;
+background-color: red;
+font-family: Cablibri, Geneva, sans-serif;
+
+}
+
+.fontsize3{
+color: green;
+font-family: Georgia, Geneva, sans-serif;
+text-shadow: 2px -1px 4px rgb(0,0,0,1);
+
+
+}
+
+.fontsize4{
+color:white;
+background-color: black;
+font-family: Lucida Console, sans-serif;
+
+}
+
+.body{
+  background-color: #789;
+}
